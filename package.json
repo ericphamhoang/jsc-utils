@@ -2,7 +2,7 @@
   "name": "@ericphamhoang/jsc-utils",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "StringUtils.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
